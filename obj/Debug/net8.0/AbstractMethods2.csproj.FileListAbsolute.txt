@@ -1,0 +1,14 @@
+C:\Gabriel C#\Projetos Curso\AbstractMethods2\bin\Debug\net8.0\AbstractMethods2.exe
+C:\Gabriel C#\Projetos Curso\AbstractMethods2\bin\Debug\net8.0\AbstractMethods2.deps.json
+C:\Gabriel C#\Projetos Curso\AbstractMethods2\bin\Debug\net8.0\AbstractMethods2.runtimeconfig.json
+C:\Gabriel C#\Projetos Curso\AbstractMethods2\bin\Debug\net8.0\AbstractMethods2.dll
+C:\Gabriel C#\Projetos Curso\AbstractMethods2\bin\Debug\net8.0\AbstractMethods2.pdb
+C:\Gabriel C#\Projetos Curso\AbstractMethods2\obj\Debug\net8.0\AbstractMethods2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel C#\Projetos Curso\AbstractMethods2\obj\Debug\net8.0\AbstractMethods2.AssemblyInfoInputs.cache
+C:\Gabriel C#\Projetos Curso\AbstractMethods2\obj\Debug\net8.0\AbstractMethods2.AssemblyInfo.cs
+C:\Gabriel C#\Projetos Curso\AbstractMethods2\obj\Debug\net8.0\AbstractMethods2.csproj.CoreCompileInputs.cache
+C:\Gabriel C#\Projetos Curso\AbstractMethods2\obj\Debug\net8.0\AbstractMethods2.dll
+C:\Gabriel C#\Projetos Curso\AbstractMethods2\obj\Debug\net8.0\refint\AbstractMethods2.dll
+C:\Gabriel C#\Projetos Curso\AbstractMethods2\obj\Debug\net8.0\AbstractMethods2.pdb
+C:\Gabriel C#\Projetos Curso\AbstractMethods2\obj\Debug\net8.0\AbstractMethods2.genruntimeconfig.cache
+C:\Gabriel C#\Projetos Curso\AbstractMethods2\obj\Debug\net8.0\ref\AbstractMethods2.dll
